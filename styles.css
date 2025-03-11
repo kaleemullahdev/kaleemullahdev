@@ -1,0 +1,15 @@
+/* Profile Image Styles */
+.profile-img {
+  width: 260px;
+  height: 260px;
+  border-radius: 50%; /* Makes it circular */
+  border: 5px solid #fff; /* White border for visibility */
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); /* Glowing effect */
+}
+
+/* Upwork Logo Styles */
+.upwork-logo {
+  filter: brightness(0) invert(1); /* Makes the Upwork logo visible on dark background */
+  width: 50px; /* Adjust size */
+  height: 50px;
+}
