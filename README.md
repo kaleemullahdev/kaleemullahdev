@@ -41,9 +41,9 @@
   <a href="https://polite-genie-672ad3.netlify.app/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Portfolio" height="50" width="50" style="text-decoration: none">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01637458ee4dd50fdd?viewMode=1" target="_blank" style="text-decoration: none">
+<!--   <a href="https://www.upwork.com/freelancers/~01637458ee4dd50fdd?viewMode=1" target="_blank" style="text-decoration: none">
     <img src="https://www.citypng.com/public/uploads/preview/upwork-round-black-logo-icon-735811696609922hnwnyggn9o.png" alt="Upwork" height="50" width="50">
-  </a>
+  </a> -->
 </p>
 
 <br>
